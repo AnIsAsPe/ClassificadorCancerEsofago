@@ -1,4 +1,4 @@
-# Classificador binario de imágenes miscroscópicas en vivo para el disgnóstico de Cancer de Esófago
+# Clasificador binario de imágenes miscroscópicas en vivo para el disgnóstico de Cancer de Esófago
 
 Se utiliza Perceptrón lineal para realizar una clasificación binaria de un subconjunto de imágenes provenientes del Data Challenge by Mauna Kea 
 (Link of the challenge : https://challengedata.ens.fr/participants/challenges/11/)
