@@ -1,5 +1,7 @@
 # Clasificador binario de imágenes miscroscópicas en vivo para el disgnóstico de Cancer de Esófago
 
+El presente repositorio se refiere a un curso sobre el Perceptrón, impartido en colaboración con el [Colegio de Matemáticas Bourbaki](https://www.colegio-bourbaki.com/) 
+
 Se utiliza Perceptrón lineal para realizar una clasificación binaria de un subconjunto de imágenes provenientes del Data Challenge by Mauna Kea 
 (Link of the challenge : https://challengedata.ens.fr/participants/challenges/11/)
 
