@@ -1,4 +1,4 @@
-# Clasificador binario de imágenes miscroscópicas en vivo para el disgnóstico de Cancer de Esófago
+# Clasificador binario de imágenes microscópicas en vivo para el diagnóstico de Cancer de Esófago
 
 El presente repositorio se refiere a un curso sobre el Perceptrón, impartido en colaboración con el [Colegio de Matemáticas Bourbaki](https://www.colegio-bourbaki.com/).
 
